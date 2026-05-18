@@ -1,6 +1,7 @@
 displayName: "Project: Restoration"
 name: "restored-mind" #projectv5-mod
 author: "VvSeanGtvV"
+main: "classicMod.ClassicMod"
 description: "A Mindustry builds including some classic ones are added to Mindustry v8!"
 version: 0.6.0 Beta
 minGameVersion: 154
